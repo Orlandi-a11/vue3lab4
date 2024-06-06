@@ -8,7 +8,7 @@ import router from './router'
 
 import axios from 'axios'
 
-axios.defaults.baseURL = 'https://8080-orlandia11-springboot3a-pwx3xg1fpkp.ws-us114.gitpod.io/'
+axios.defaults.baseURL = 'https://8080-orlandia11-springboot3l-sy52pdcg8ve.ws-us114.gitpod.io/'
 
 const app = createApp(App)
 
